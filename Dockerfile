@@ -1,4 +1,4 @@
-FROM marlonfan/nginx-for-php-fpm:0.0.1
+FROM marlonfan/nginx:0.0.1
 
 MAINTAINER Marlon Fan <marlon@tfan.net>
 
